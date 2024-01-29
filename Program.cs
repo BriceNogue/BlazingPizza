@@ -12,6 +12,9 @@ builder.Services.AddSingleton<WeatherForecastService>();
 // Register the pizzas service
 builder.Services.AddSingleton<PizzaService>();
 
+builder.Services.AddHttpClient();
+builder.Services.AddSqlite<PizzaStoreContext>("Data Source=pizza.db");
+
 var app = builder.Build();
 
 // Configure the HTTP request pipeline.
@@ -43,5 +46,6 @@ app.UseRouting();
 
 app.MapBlazorHub();
 app.MapFallbackToPage("/_Host");
+app.MapControllerRoute("default", "{controller=Home}/{action=Index}/{id?}");
 
 app.Run();

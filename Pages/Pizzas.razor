@@ -2,7 +2,11 @@
 
 <!--- Injection de dependances -->
 @using BlazingPizza.Data
+@using System.Net.Http;
+
 @inject PizzaService PizzaSvc
+@inject HttpClient HttpClient
+@inject NavigationManager NavigationManager
 
 
 @if (todaysPizzas == null)
@@ -41,10 +45,12 @@ else
 }
 
 @code {
-    private Pizza[] todaysPizzas = default!;
+    //private Pizza[] todaysPizzas = default!;
+    private List<Pizza> todaysPizzas = new List<Pizza>();
     protected override async Task OnInitializedAsync()
     {
         // Call the service here
-        todaysPizzas = await PizzaSvc.GetPizzasAsync();
+        //todaysPizzas = await PizzaSvc.GetPizzasAsync();
+        todaysPizzas = await HttpClient.GetFromJsonAsync<List<Pizza>>(NavigationManager.BaseUri + "pizzas") ?? new List<Pizza>();
     }
 }
