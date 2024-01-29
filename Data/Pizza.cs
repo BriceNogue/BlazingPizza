@@ -13,4 +13,7 @@ public class Pizza
     public bool Vegetarian { get; set; }
     
     public bool Vegan { get; set; }
+
+    public string ImageUrl { get; set; } = string.Empty;
+
 }
