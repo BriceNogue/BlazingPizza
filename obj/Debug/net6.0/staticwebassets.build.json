@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "MD0i2V9MjE3q6DBD6S/h++84JxxcwtSyRMXZ96GmK+s=",
+  "Hash": "9bf4DqyE+mo5lVi51YTfCnLllPaBqdYCaSGCI8KdnSE=",
   "Source": "BlazingPizza",
   "BasePath": "_content/BlazingPizza",
   "Mode": "Default",
@@ -10,17 +10,17 @@
     {
       "Name": "BlazingPizza\\wwwroot",
       "Source": "BlazingPizza",
-      "ContentRoot": "e:\\Ecole\\DotNet\\Tp\\BlazingPizza\\wwwroot\\",
+      "ContentRoot": "E:\\Ecole\\DotNet\\Tp\\BlazingPizza\\wwwroot\\",
       "BasePath": "_content/BlazingPizza",
       "Pattern": "**"
     }
   ],
   "Assets": [
     {
-      "Identity": "e:\\Ecole\\DotNet\\Tp\\BlazingPizza\\obj\\Debug\\net6.0\\scopedcss\\bundle\\BlazingPizza.styles.css",
+      "Identity": "E:\\Ecole\\DotNet\\Tp\\BlazingPizza\\obj\\Debug\\net6.0\\scopedcss\\bundle\\BlazingPizza.styles.css",
       "SourceId": "BlazingPizza",
       "SourceType": "Computed",
-      "ContentRoot": "e:\\Ecole\\DotNet\\Tp\\BlazingPizza\\obj\\Debug\\net6.0\\scopedcss\\bundle\\",
+      "ContentRoot": "E:\\Ecole\\DotNet\\Tp\\BlazingPizza\\obj\\Debug\\net6.0\\scopedcss\\bundle\\",
       "BasePath": "_content/BlazingPizza",
       "RelativePath": "BlazingPizza.styles.css",
       "AssetKind": "All",
@@ -33,13 +33,13 @@
       "AssetTraitValue": "ApplicationBundle",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "e:\\Ecole\\DotNet\\Tp\\BlazingPizza\\obj\\Debug\\net6.0\\scopedcss\\bundle\\BlazingPizza.styles.css"
+      "OriginalItemSpec": "E:\\Ecole\\DotNet\\Tp\\BlazingPizza\\obj\\Debug\\net6.0\\scopedcss\\bundle\\BlazingPizza.styles.css"
     },
     {
-      "Identity": "e:\\Ecole\\DotNet\\Tp\\BlazingPizza\\obj\\Debug\\net6.0\\scopedcss\\projectbundle\\BlazingPizza.bundle.scp.css",
+      "Identity": "E:\\Ecole\\DotNet\\Tp\\BlazingPizza\\obj\\Debug\\net6.0\\scopedcss\\projectbundle\\BlazingPizza.bundle.scp.css",
       "SourceId": "BlazingPizza",
       "SourceType": "Computed",
-      "ContentRoot": "e:\\Ecole\\DotNet\\Tp\\BlazingPizza\\obj\\Debug\\net6.0\\scopedcss\\projectbundle\\",
+      "ContentRoot": "E:\\Ecole\\DotNet\\Tp\\BlazingPizza\\obj\\Debug\\net6.0\\scopedcss\\projectbundle\\",
       "BasePath": "_content/BlazingPizza",
       "RelativePath": "BlazingPizza.bundle.scp.css",
       "AssetKind": "All",
@@ -52,13 +52,13 @@
       "AssetTraitValue": "ProjectBundle",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "e:\\Ecole\\DotNet\\Tp\\BlazingPizza\\obj\\Debug\\net6.0\\scopedcss\\projectbundle\\BlazingPizza.bundle.scp.css"
+      "OriginalItemSpec": "E:\\Ecole\\DotNet\\Tp\\BlazingPizza\\obj\\Debug\\net6.0\\scopedcss\\projectbundle\\BlazingPizza.bundle.scp.css"
     },
     {
-      "Identity": "e:\\Ecole\\DotNet\\Tp\\BlazingPizza\\wwwroot\\css\\bootstrap\\bootstrap.min.css",
+      "Identity": "E:\\Ecole\\DotNet\\Tp\\BlazingPizza\\wwwroot\\css\\bootstrap\\bootstrap.min.css",
       "SourceId": "BlazingPizza",
       "SourceType": "Discovered",
-      "ContentRoot": "e:\\Ecole\\DotNet\\Tp\\BlazingPizza\\wwwroot\\",
+      "ContentRoot": "E:\\Ecole\\DotNet\\Tp\\BlazingPizza\\wwwroot\\",
       "BasePath": "_content/BlazingPizza",
       "RelativePath": "css/bootstrap/bootstrap.min.css",
       "AssetKind": "All",
@@ -74,10 +74,10 @@
       "OriginalItemSpec": "wwwroot\\css\\bootstrap\\bootstrap.min.css"
     },
     {
-      "Identity": "e:\\Ecole\\DotNet\\Tp\\BlazingPizza\\wwwroot\\css\\bootstrap\\bootstrap.min.css.map",
+      "Identity": "E:\\Ecole\\DotNet\\Tp\\BlazingPizza\\wwwroot\\css\\bootstrap\\bootstrap.min.css.map",
       "SourceId": "BlazingPizza",
       "SourceType": "Discovered",
-      "ContentRoot": "e:\\Ecole\\DotNet\\Tp\\BlazingPizza\\wwwroot\\",
+      "ContentRoot": "E:\\Ecole\\DotNet\\Tp\\BlazingPizza\\wwwroot\\",
       "BasePath": "_content/BlazingPizza",
       "RelativePath": "css/bootstrap/bootstrap.min.css.map",
       "AssetKind": "All",
@@ -93,10 +93,10 @@
       "OriginalItemSpec": "wwwroot\\css\\bootstrap\\bootstrap.min.css.map"
     },
     {
-      "Identity": "e:\\Ecole\\DotNet\\Tp\\BlazingPizza\\wwwroot\\css\\open-iconic\\FONT-LICENSE",
+      "Identity": "E:\\Ecole\\DotNet\\Tp\\BlazingPizza\\wwwroot\\css\\open-iconic\\FONT-LICENSE",
       "SourceId": "BlazingPizza",
       "SourceType": "Discovered",
-      "ContentRoot": "e:\\Ecole\\DotNet\\Tp\\BlazingPizza\\wwwroot\\",
+      "ContentRoot": "E:\\Ecole\\DotNet\\Tp\\BlazingPizza\\wwwroot\\",
       "BasePath": "_content/BlazingPizza",
       "RelativePath": "css/open-iconic/FONT-LICENSE",
       "AssetKind": "All",
@@ -112,10 +112,10 @@
       "OriginalItemSpec": "wwwroot\\css\\open-iconic\\FONT-LICENSE"
     },
     {
-      "Identity": "e:\\Ecole\\DotNet\\Tp\\BlazingPizza\\wwwroot\\css\\open-iconic\\font\\css\\open-iconic-bootstrap.min.css",
+      "Identity": "E:\\Ecole\\DotNet\\Tp\\BlazingPizza\\wwwroot\\css\\open-iconic\\font\\css\\open-iconic-bootstrap.min.css",
       "SourceId": "BlazingPizza",
       "SourceType": "Discovered",
-      "ContentRoot": "e:\\Ecole\\DotNet\\Tp\\BlazingPizza\\wwwroot\\",
+      "ContentRoot": "E:\\Ecole\\DotNet\\Tp\\BlazingPizza\\wwwroot\\",
       "BasePath": "_content/BlazingPizza",
       "RelativePath": "css/open-iconic/font/css/open-iconic-bootstrap.min.css",
       "AssetKind": "All",
@@ -131,10 +131,10 @@
       "OriginalItemSpec": "wwwroot\\css\\open-iconic\\font\\css\\open-iconic-bootstrap.min.css"
     },
     {
-      "Identity": "e:\\Ecole\\DotNet\\Tp\\BlazingPizza\\wwwroot\\css\\open-iconic\\font\\fonts\\open-iconic.eot",
+      "Identity": "E:\\Ecole\\DotNet\\Tp\\BlazingPizza\\wwwroot\\css\\open-iconic\\font\\fonts\\open-iconic.eot",
       "SourceId": "BlazingPizza",
       "SourceType": "Discovered",
-      "ContentRoot": "e:\\Ecole\\DotNet\\Tp\\BlazingPizza\\wwwroot\\",
+      "ContentRoot": "E:\\Ecole\\DotNet\\Tp\\BlazingPizza\\wwwroot\\",
       "BasePath": "_content/BlazingPizza",
       "RelativePath": "css/open-iconic/font/fonts/open-iconic.eot",
       "AssetKind": "All",
@@ -150,10 +150,10 @@
       "OriginalItemSpec": "wwwroot\\css\\open-iconic\\font\\fonts\\open-iconic.eot"
     },
     {
-      "Identity": "e:\\Ecole\\DotNet\\Tp\\BlazingPizza\\wwwroot\\css\\open-iconic\\font\\fonts\\open-iconic.otf",
+      "Identity": "E:\\Ecole\\DotNet\\Tp\\BlazingPizza\\wwwroot\\css\\open-iconic\\font\\fonts\\open-iconic.otf",
       "SourceId": "BlazingPizza",
       "SourceType": "Discovered",
-      "ContentRoot": "e:\\Ecole\\DotNet\\Tp\\BlazingPizza\\wwwroot\\",
+      "ContentRoot": "E:\\Ecole\\DotNet\\Tp\\BlazingPizza\\wwwroot\\",
       "BasePath": "_content/BlazingPizza",
       "RelativePath": "css/open-iconic/font/fonts/open-iconic.otf",
       "AssetKind": "All",
@@ -169,10 +169,10 @@
       "OriginalItemSpec": "wwwroot\\css\\open-iconic\\font\\fonts\\open-iconic.otf"
     },
     {
-      "Identity": "e:\\Ecole\\DotNet\\Tp\\BlazingPizza\\wwwroot\\css\\open-iconic\\font\\fonts\\open-iconic.svg",
+      "Identity": "E:\\Ecole\\DotNet\\Tp\\BlazingPizza\\wwwroot\\css\\open-iconic\\font\\fonts\\open-iconic.svg",
       "SourceId": "BlazingPizza",
       "SourceType": "Discovered",
-      "ContentRoot": "e:\\Ecole\\DotNet\\Tp\\BlazingPizza\\wwwroot\\",
+      "ContentRoot": "E:\\Ecole\\DotNet\\Tp\\BlazingPizza\\wwwroot\\",
       "BasePath": "_content/BlazingPizza",
       "RelativePath": "css/open-iconic/font/fonts/open-iconic.svg",
       "AssetKind": "All",
@@ -188,10 +188,10 @@
       "OriginalItemSpec": "wwwroot\\css\\open-iconic\\font\\fonts\\open-iconic.svg"
     },
     {
-      "Identity": "e:\\Ecole\\DotNet\\Tp\\BlazingPizza\\wwwroot\\css\\open-iconic\\font\\fonts\\open-iconic.ttf",
+      "Identity": "E:\\Ecole\\DotNet\\Tp\\BlazingPizza\\wwwroot\\css\\open-iconic\\font\\fonts\\open-iconic.ttf",
       "SourceId": "BlazingPizza",
       "SourceType": "Discovered",
-      "ContentRoot": "e:\\Ecole\\DotNet\\Tp\\BlazingPizza\\wwwroot\\",
+      "ContentRoot": "E:\\Ecole\\DotNet\\Tp\\BlazingPizza\\wwwroot\\",
       "BasePath": "_content/BlazingPizza",
       "RelativePath": "css/open-iconic/font/fonts/open-iconic.ttf",
       "AssetKind": "All",
@@ -207,10 +207,10 @@
       "OriginalItemSpec": "wwwroot\\css\\open-iconic\\font\\fonts\\open-iconic.ttf"
     },
     {
-      "Identity": "e:\\Ecole\\DotNet\\Tp\\BlazingPizza\\wwwroot\\css\\open-iconic\\font\\fonts\\open-iconic.woff",
+      "Identity": "E:\\Ecole\\DotNet\\Tp\\BlazingPizza\\wwwroot\\css\\open-iconic\\font\\fonts\\open-iconic.woff",
       "SourceId": "BlazingPizza",
       "SourceType": "Discovered",
-      "ContentRoot": "e:\\Ecole\\DotNet\\Tp\\BlazingPizza\\wwwroot\\",
+      "ContentRoot": "E:\\Ecole\\DotNet\\Tp\\BlazingPizza\\wwwroot\\",
       "BasePath": "_content/BlazingPizza",
       "RelativePath": "css/open-iconic/font/fonts/open-iconic.woff",
       "AssetKind": "All",
@@ -226,10 +226,10 @@
       "OriginalItemSpec": "wwwroot\\css\\open-iconic\\font\\fonts\\open-iconic.woff"
     },
     {
-      "Identity": "e:\\Ecole\\DotNet\\Tp\\BlazingPizza\\wwwroot\\css\\open-iconic\\ICON-LICENSE",
+      "Identity": "E:\\Ecole\\DotNet\\Tp\\BlazingPizza\\wwwroot\\css\\open-iconic\\ICON-LICENSE",
       "SourceId": "BlazingPizza",
       "SourceType": "Discovered",
-      "ContentRoot": "e:\\Ecole\\DotNet\\Tp\\BlazingPizza\\wwwroot\\",
+      "ContentRoot": "E:\\Ecole\\DotNet\\Tp\\BlazingPizza\\wwwroot\\",
       "BasePath": "_content/BlazingPizza",
       "RelativePath": "css/open-iconic/ICON-LICENSE",
       "AssetKind": "All",
@@ -245,10 +245,10 @@
       "OriginalItemSpec": "wwwroot\\css\\open-iconic\\ICON-LICENSE"
     },
     {
-      "Identity": "e:\\Ecole\\DotNet\\Tp\\BlazingPizza\\wwwroot\\css\\open-iconic\\README.md",
+      "Identity": "E:\\Ecole\\DotNet\\Tp\\BlazingPizza\\wwwroot\\css\\open-iconic\\README.md",
       "SourceId": "BlazingPizza",
       "SourceType": "Discovered",
-      "ContentRoot": "e:\\Ecole\\DotNet\\Tp\\BlazingPizza\\wwwroot\\",
+      "ContentRoot": "E:\\Ecole\\DotNet\\Tp\\BlazingPizza\\wwwroot\\",
       "BasePath": "_content/BlazingPizza",
       "RelativePath": "css/open-iconic/README.md",
       "AssetKind": "All",
@@ -264,10 +264,10 @@
       "OriginalItemSpec": "wwwroot\\css\\open-iconic\\README.md"
     },
     {
-      "Identity": "e:\\Ecole\\DotNet\\Tp\\BlazingPizza\\wwwroot\\css\\site.css",
+      "Identity": "E:\\Ecole\\DotNet\\Tp\\BlazingPizza\\wwwroot\\css\\site.css",
       "SourceId": "BlazingPizza",
       "SourceType": "Discovered",
-      "ContentRoot": "e:\\Ecole\\DotNet\\Tp\\BlazingPizza\\wwwroot\\",
+      "ContentRoot": "E:\\Ecole\\DotNet\\Tp\\BlazingPizza\\wwwroot\\",
       "BasePath": "_content/BlazingPizza",
       "RelativePath": "css/site.css",
       "AssetKind": "All",
@@ -283,10 +283,10 @@
       "OriginalItemSpec": "wwwroot\\css\\site.css"
     },
     {
-      "Identity": "e:\\Ecole\\DotNet\\Tp\\BlazingPizza\\wwwroot\\favicon.ico",
+      "Identity": "E:\\Ecole\\DotNet\\Tp\\BlazingPizza\\wwwroot\\favicon.ico",
       "SourceId": "BlazingPizza",
       "SourceType": "Discovered",
-      "ContentRoot": "e:\\Ecole\\DotNet\\Tp\\BlazingPizza\\wwwroot\\",
+      "ContentRoot": "E:\\Ecole\\DotNet\\Tp\\BlazingPizza\\wwwroot\\",
       "BasePath": "_content/BlazingPizza",
       "RelativePath": "favicon.ico",
       "AssetKind": "All",

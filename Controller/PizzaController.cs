@@ -4,7 +4,7 @@ using BlazingPizza.Data;
 
 namespace BlazingPizza.Controllers;
 
-[Route("specials")]
+[Route("pizzas")]
 [ApiController]
 public class PizzasController : Controller
 {

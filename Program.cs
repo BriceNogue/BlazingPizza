@@ -36,8 +36,6 @@ using (var scope = scopeFactory.CreateScope())
     }
 }
 
-app.Run();
-
 app.UseHttpsRedirection();
 
 app.UseStaticFiles();

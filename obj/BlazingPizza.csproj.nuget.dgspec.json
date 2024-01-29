@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "e:\\Ecole\\DotNet\\Tp\\BlazingPizza\\BlazingPizza.csproj": {}
+    "E:\\Ecole\\DotNet\\Tp\\BlazingPizza\\BlazingPizza.csproj": {}
   },
   "projects": {
-    "e:\\Ecole\\DotNet\\Tp\\BlazingPizza\\BlazingPizza.csproj": {
+    "E:\\Ecole\\DotNet\\Tp\\BlazingPizza\\BlazingPizza.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "e:\\Ecole\\DotNet\\Tp\\BlazingPizza\\BlazingPizza.csproj",
+        "projectUniqueName": "E:\\Ecole\\DotNet\\Tp\\BlazingPizza\\BlazingPizza.csproj",
         "projectName": "BlazingPizza",
-        "projectPath": "e:\\Ecole\\DotNet\\Tp\\BlazingPizza\\BlazingPizza.csproj",
+        "projectPath": "E:\\Ecole\\DotNet\\Tp\\BlazingPizza\\BlazingPizza.csproj",
         "packagesPath": "C:\\Users\\ordinateur\\.nuget\\packages\\",
-        "outputPath": "e:\\Ecole\\DotNet\\Tp\\BlazingPizza\\obj\\",
+        "outputPath": "E:\\Ecole\\DotNet\\Tp\\BlazingPizza\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
